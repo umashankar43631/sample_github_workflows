@@ -38,5 +38,3 @@ def read_user(username: str):
         dict: A dictionary containing the username.
     """
     return {"username": username}
-
-# Ensure the file ends with a newline
